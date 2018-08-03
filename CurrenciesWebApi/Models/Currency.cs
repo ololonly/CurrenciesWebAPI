@@ -6,6 +6,7 @@ using System.Runtime.Serialization;
 
 namespace CurrenciesWebApi.Models
 {   
+    //Currency class
     [DataContract]
     public class Currency
     {
